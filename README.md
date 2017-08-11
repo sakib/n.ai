@@ -6,7 +6,7 @@ Graduate Course Report avaiable for viewing [here](https://goo.gl/K7K3ye).
 
 ## Overview
 
-This app incorporates a custom-built machine learning algorithm to suggest what recipes a user should eat. The user may specify the number of suggested recipes, the protein and the specific cuisine. Many scripts (stored in /scripts) were used to scrape food/recipe data from online, clean it in various stages (see /outfiles), and structure it to mold to our database models. Routes were built to expose user services on API endpoints:
+This app incorporates a custom-built recommendation engine algorithm based on artificial intelligence techniques to suggest what recipes a user should eat. The user may specify the number of suggested recipes, the protein and the specific cuisine. Many scripts (stored in /scripts) were used to scrape food/recipe data from online, clean it in various stages (see /outfiles), and structure it to mold to our database models. Routes were built to expose user services on API endpoints:
 
 * Get suggestions for recipes, based on user history and preferences for foods
 * Select a recipe for consumption, which are learned into your preferences
