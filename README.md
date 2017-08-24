@@ -2,7 +2,7 @@
 
 This is Sakib and Ming's Nutritional AI App that uses Flask/SQLAlchemy. 
 
-Graduate Course Report avaiable for viewing [here](https://goo.gl/K7K3ye).
+Full Report available for reading [here](https://goo.gl/K7K3ye).
 
 ## Overview
 
